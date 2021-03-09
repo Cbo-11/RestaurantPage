@@ -1,0 +1,23 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "Odin Project Restaurant Page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cbo-11/RestaurantPage.git"
+  },
+  "author": "Cbo-11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cbo-11/RestaurantPage/issues"
+  },
+  "homepage": "https://github.com/Cbo-11/RestaurantPage#readme",
+  "devDependencies": {
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  }
+}
