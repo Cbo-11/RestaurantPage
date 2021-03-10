@@ -1,0 +1,55 @@
+html {
+font: 34;
+}
+body {
+background-image: url(/images/BarFront.jpg); 
+Background-size: 100% ;
+background-repeat: no-repeat;
+}
+
+.nav-link{ 
+    font-family: "Roboto Mono";
+}
+
+.navbar-brand{
+    font-family: "Roboto Mono";
+}
+
+#bio-details { 
+    font-family: "Roboto Mono";
+    margin-top: 100px;
+    padding-top: 50px;
+    width: 35%;
+    height: 1000px;
+    text-align: center;
+    background-color: aliceblue ;
+    opacity: 0.5;
+}
+
+#menu-details { 
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-left: 50px;
+    font-family: "Roboto Mono";
+    width: 80%;
+    height: 1000px;
+    background-color: aliceblue ;
+    opacity: 0.5;
+}
+
+.about {
+    padding: 20px;
+    font-family: "Roboto Mono";
+    color: black;
+    font-weight: bold;
+}
+
+.title {
+    text-align: center;
+    padding: 5px;
+    font-family: "Roboto Mono";
+    color: black;
+}
+
+
+    
